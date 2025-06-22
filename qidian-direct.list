@@ -1,0 +1,8 @@
+# 起点小说 App 直连规则
+DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,qdmm.com
+DOMAIN-SUFFIX,reading.qq.com
+DOMAIN-SUFFIX,cloud.qidian.com
+DOMAIN-SUFFIX,book.qidian.com
+DOMAIN-KEYWORD,qidian
+IP-CIDR,183.3.224.0/19,no-resolve
